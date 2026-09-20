@@ -1,15 +1,18 @@
-# Operating Systems
+<p align="center"><img src="./course-panel.svg" width="100%" alt="OPERATING SYSTEMS course panel"/></p>
 
-운영체제의 핵심 개념과 수업 실습을 주제별로 정리한 저장소입니다.
+# OPERATING SYSTEMS
 
-## Topics
+Notion에 축적한 수업 필기와 실습 기록을 내용 중심으로 복원한 저장소입니다.
 
-- 운영체제의 역할과 시스템 구조
-- 프로세스와 스레드
-- CPU 스케줄링
-- 동기화와 교착상태
-- 메모리와 가상 메모리
-- 파일 시스템
-- 어셈블리 기초 실습
+## Archive
 
-강의 자료 원본과 시험 관련 내용은 포함하지 않으며, 직접 학습한 개념만 공개합니다.
+- [전체 필기와 실습 내용 보기](./FULL_NOTES.md)
+- 총 **13개 페이지**의 수업 기록 수록
+- 개인 식별 정보만 제거하고 설명·문제·풀이·코드는 유지
+
+## Scope
+
+`PROCESS` · `MEMORY` · `FILE SYSTEM`
+
+> 원본 강의 첨부파일 자체가 아니라, 개인이 작성한 필기와 학습 기록을 공개합니다.
+
