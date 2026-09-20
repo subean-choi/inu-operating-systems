@@ -1,2 +1,15 @@
-# inu-operating-systems
-Operating systems study notes from INU
+# Operating Systems
+
+운영체제의 핵심 개념과 수업 실습을 주제별로 정리한 저장소입니다.
+
+## Topics
+
+- 운영체제의 역할과 시스템 구조
+- 프로세스와 스레드
+- CPU 스케줄링
+- 동기화와 교착상태
+- 메모리와 가상 메모리
+- 파일 시스템
+- 어셈블리 기초 실습
+
+강의 자료 원본과 시험 관련 내용은 포함하지 않으며, 직접 학습한 개념만 공개합니다.
